@@ -1,7 +1,9 @@
-main{
-    margin: 0 auto;
-    max-width: 1200px;
+.card{
+    --bs-card-border-color: trasparent !important;
 }
 .myCard{
-    
+    aspect-ratio: 16/9;
+}
+.myCard img{
+    max-height: 400px;
 }
