@@ -1,5 +1,6 @@
 import TagsPost from "./TagsPost";
 
+
 function Post({ posts }) {
 
     const filtred = [...posts].filter((ele) => ele.published === true);

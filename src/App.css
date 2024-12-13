@@ -6,4 +6,9 @@
 }
 .myCard img{
     max-height: 400px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: grey;
 }
